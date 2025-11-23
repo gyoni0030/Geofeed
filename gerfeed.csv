@@ -1,0 +1,3 @@
+﻿# RFC 8805 Geofeed CSV for 121.110.176.232/23
+# Columns: ip_prefix,alpha2code,region,city,postal_code
+121.110.176.0/23,JP,Kanagawa,Yokohama,231-0000
